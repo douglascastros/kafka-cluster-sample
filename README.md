@@ -1,1 +1,3 @@
-# kafka-cluster-sample
+## kafka-cluster-sample
+
+* docker-compose up -d
